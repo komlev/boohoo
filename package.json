@@ -1,0 +1,9 @@
+{
+  "name": "boohoo",
+  "version": "0.0.1",
+  "description": "Developer's last resort",
+  "main": "index.js",
+  "repository": "git@github.com:komlev/boohoo.git",
+  "author": "Valeriy Komlev <komlev88@gmail.com>",
+  "license": "MIT"
+}
